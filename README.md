@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shadownix69  
+- 👋 Hi, I’m @nix-shadow 
 - 👀 I’m interested in cybersecurity, ethical hacking, and open-source development  
 - 🌱 I’m currently learning advanced web exploitation, malware analysis, and network security  
 - 💞️ I’m looking to collaborate on security research projects, CTF challenges, and vulnerable web app frameworks  
