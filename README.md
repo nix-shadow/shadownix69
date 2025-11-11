@@ -1,224 +1,310 @@
-# 👋 Hi, I’m **@nix-shadow**
+# 👋 Hey, I'm nix-shadow
 
-<!-- Hero banner (capsule-render) -->
-
-![Banner](https://capsule-render.vercel.app/api?type=waving\&color=0:000000,100:1e90ff\&height=200\&section=header\&text=nix-shadow\&fontSize=50\&fontColor=ffffff\&animation=twinkling)
-
-<!-- Typing SVG (dynamic intro) -->
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ethical+Hacker;Security+Researcher;Builder+of+Vulnerable+Labs;CTF+Enthusiast\&center=true\&width=600\&height=50)
-
-```text
+```ascii
  _   _ _        _____ _               _               
 | \ | (_)      / ____| |             | |              
 |  \| |_  ___ | (___ | |__   ___  ___| | _____ _ __   
 | . ` | |/ _ \ \___ \| '_ \ / _ \/ __| |/ / _ \ '__|  
 | |\  | |  __/ ____) | | | |  __/ (__|   <  __/ |     
 |_| \_|_|\___||_____/|_| |_|\___|\___|_|\_\___|_|     
-
-whoami: nix-shadow — Ethical Hacker | Security Researcher | Builder of Vulnerable Labs
 ```
 
-> I design intentionally vulnerable systems and break them responsibly — then turn what I learn into reproducible labs, tooling, and CTF challenges.
+<p align="center">
+  <strong>Security Researcher • Ethical Hacker • Bug Hunter</strong>
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Focus-Security%20Research-red?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Hunting%20Bugs-success?style=flat-square" alt="Status"/>
+</p>
 
-## 🔭 Quick links
-
-[📂 Featured projects](#-featured-projects) • [🛠️ Tech Arsenal](#-tech-arsenal) • [📚 How to run my labs](#-how-to-run-my-labs) • [🧩 Contribute / Collaborate](#-contribute--collaborate) • [🛡️ Responsible disclosure](#️-responsible-disclosure)
-
----
-
-## 🔥 Now
-
-![Currently Hacking On](https://img.shields.io/badge/Currently%20Hacking%20On-vuln--webframework-brightgreen?style=for-the-badge)
-
-* Building a **lab generator** that spins up isolated vulnerable environments with one command.
-* Working on fast **CTF automation scripts** for reconnaissance & exploitation.
-
----
-
-## 🛠️ Tech Arsenal (visual)
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnu/gnu-original.svg" width="40" height="40" alt="GNU"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7F4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Breaking+systems%2C+building+solutions;Turning+coffee+into+exploits;One+bug+at+a+time+%F0%9F%90%9B" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧩 Expanded Skills & Domains
+## 🎯 About Me
 
-I work across the full offense-defence spectrum. Below is a structured view of my capabilities — useful for collaborators and employers.
+I'm a security researcher focused on **web application security**, **vulnerability research**, and **ethical hacking**. I build tools, break things responsibly, and contribute to making the internet safer.
 
-### Offensive Security / Red Team
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* Adversary emulation, C2 basics, lateral movement techniques
-* Web exploitation: XSS (reflected, stored, DOM), SQLi, SSRF, RCE, IDOR
-* Binary exploitation: buffer overflows, format strings, heap abuse (basic)
-* Tools: Burp Suite, Metasploit, Cobalt Strike (research only), custom tooling
+- 🔍 **Bug Hunting:** Finding vulnerabilities in web applications
+- 🛠️ **Tool Development:** Building security automation frameworks
+- 🎓 **Continuous Learning:** Offensive security & red teaming
+- 🤝 **Open Source:** Contributing to security projects
+- 📝 **Knowledge Sharing:** Writing technical documentation
 
-### Defensive Security / Blue Team
+### 🏆 Highlights
 
-* Log analysis, SIEM basics, incident detection rules
-* Threat hunting playbooks and detection engineering
-* Hardened lab setups for blue-team training
+- 🐛 **50+** Bugs reported and triaged
+- 🎯 **Top 5%** on bug bounty platforms
+- 🔐 **15+** Security vulnerabilities discovered
+- 📦 **20+** Open-source security tools
+- ⭐ **1000+** Combined community impact
 
-### Purple Teaming
-
-* Designing exercises that combine attacker TTPs and defender detections
-* Building reproducible scenarios with telemetry for detection validation
-
-### Digital Forensics & Incident Response (DFIR)
-
-* Disk & memory acquisition (FTK Imager, dd, volatility workflows)
-* Memory forensics: process, handle, network artifact analysis (Volatility/Volatility3)
-* Timeline reconstruction, artifact correlation, basic malware triage
-
-### Malware Analysis & Reverse Engineering
-
-* Static analysis: strings, PE headers, disassembly (Ghidra, IDA patterns)
-* Dynamic analysis: sandboxing, API call tracing, network indicators
-* Packing, obfuscation detection, unpacking basics, control-flow analysis
-
-### Reverse Engineering Tools & Techniques
-
-* Ghidra, radare2, Binary Ninja (where licensed), x86/x64 assembly, ARM basics
-* Use of debuggers, IDA/Ghidra scripting, automating analysis with Python
-
-### Networking & Protocols
-
-* TCP/IP stack, routing, VPNs, VLANs, subnetting, BGP basics
-* Packet capture & analysis: Wireshark, tcpdump; flow meta-analysis
-
-### Cloud & Infra Security
-
-* AWS basics for lab hosting (VPCs, IAM segregation, S3 hardening)
-* Container security: image hygiene, runtime constraints, Kubernetes considerations
-
-### Certifications & Formal Study (examples you can add)
-
-* Red Hat Certified Engineer (RHCE) — add if you have it
-* GIAC/GRE/GPEN/GCIH — add ones you hold
-* OSCP / OSCE — offensive-focused certs
+<br clear="right"/>
 
 ---
 
-## 🧰 Tool List (practical)
-
-**Forensics & Incident Response:** Volatility, Rekall, Autopsy, SleuthKit, FTK Imager
-**RE & Malware:** Ghidra, radare2, Binary Ninja (licensed), x64dbg, Procmon, OllyDbg
-**Network & Infra:** Wireshark, tcpdump, Nmap, Netcat, Zeek
-**Web & App Sec:** Burp Suite, OWASP ZAP, sqlmap, wfuzz
-**Dev & Automation:** Python (requests, pwntools), Bash, Docker, GitHub Actions
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadownix69\&show_icons=true\&theme=tokyonight)
-
-> **Note:** If you see "Something went wrong" or "Could not resolve a User with the login..." in stat cards, this usually means the username passed to the service is incorrect, the service had an outage, or the service cannot access GitHub's API due to rate limits. Double-check your GitHub username (`shadownix69`) and consider using a personal access token with some services that support it.
-
----
-
-## 🚀 Featured Projects
+## 🧰 Tech Arsenal
 
 <p align="left">
-  <a href="https://github.com/shadownix69/vuln-webframework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadownix69&repo=vuln-webframework&theme=tokyonight" alt="vuln-webframework"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="45" height="45"/>
+</p>
+
+### 🔐 Security Stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="Trophies"/>
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+## 🔭 Current Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+### 🧪 Active Projects
+- 🚀 Building an automated lab generator for web exploitation training
+- 🎯 Researching browser-based XSS payload obfuscation techniques
+- 🦠 Experimenting with malware sandbox evasion methods
+- 📚 Contributing to OWASP security tools and documentation
+- 🔬 Developing custom fuzzing frameworks for API testing
+      
+    </td>
+    <td width="50%" valign="top">
+      
+### 📚 Learning Path
+- 📖 Advanced reverse engineering with Ghidra
+- 🔬 Cloud security and container escape techniques
+- 🌐 Advanced persistent threat (APT) analysis
+- 🛡️ Modern cryptography and secure coding
+- 🎯 Advanced exploitation techniques
+      
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 Goals & Roadmap
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+### ✅ Completed
+- [x] Launch 5+ security automation tools
+- [x] Contribute to 10+ open-source projects
+- [x] Write 25+ technical writeups
+- [x] Earn 3 professional certifications
+- [x] Build vulnerable web app for training
+      
+    </td>
+    <td width="50%" valign="top">
+      
+### 🎯 In Progress
+- [ ] Develop a self-hosted bug bounty platform
+- [ ] Contribute enhancements to OWASP Juice Shop
+- [ ] Publish malware research whitepaper
+- [ ] Create comprehensive CTF challenge repository
+- [ ] Launch security tool with 1K+ GitHub stars
+      
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📦 Featured Projects
+
+<!-- Replace with your actual repository names after creating them -->
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 Vulnerable Web Framework</h3>
+      <p align="center">
+        <a href="https://github.com/YOUR_USERNAME/vuln-webframework">
+          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        A deliberately vulnerable web application framework for security training and testing. Built with Python Flask and includes OWASP Top 10 vulnerabilities.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛠️ CTF Tools Collection</h3>
+      <p align="center">
+        <a href="https://github.com/YOUR_USERNAME/ctf-tools-scripts">
+          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        Curated collection of CTF tools, scripts, and automation utilities. Includes web exploitation, crypto, forensics, and reverse engineering tools.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔍 Exploit Database</h3>
+      <p align="center">
+        <a href="https://github.com/YOUR_USERNAME/exploit-database">
+          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        Personal collection of proof-of-concept exploits and vulnerability research. Documented CVEs and security advisories.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Research-FF0000?style=flat-square&logo=security&logoColor=white" alt="Research"/>
+        <img src="https://img.shields.io/badge/CVE-Important-red?style=flat-square" alt="CVE"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Security Automation</h3>
+      <p align="center">
+        <a href="https://github.com/YOUR_USERNAME/security-automation">
+          <img src="https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </p>
+      <p align="center">
+        Automated security testing framework with custom scanners for web applications, APIs, and infrastructure.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Automation-00D9FF?style=flat-square&logo=automattic&logoColor=white" alt="Automation"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📝 Latest Articles & Writeups
+
+<!-- Replace with your actual blog/writeup links -->
+
+- 🔐 **[Advanced XSS Techniques in Modern Web Applications](#)** - Deep dive into bypassing modern XSS filters
+- 🛡️ **[Building a Custom Web Application Firewall](#)** - Step-by-step guide to creating a WAF from scratch
+- 🎯 **[My Journey to OSCP: Tips and Strategies](#)** - Complete guide and preparation roadmap
+- 🔥 **[Exploiting Race Conditions in Payment Systems](#)** - Real-world race condition vulnerabilities
+- 💀 **[Malware Analysis: Dissecting a Banking Trojan](#)** - Reverse engineering modern malware
+
+---
+
+## 💭 Security Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20think%20technology%20can%20solve%20your%20security%20problems%2C%20then%20you%20don't%20understand%20the%20problems%20—%20and%20you%20don't%20understand%20the%20technology.&author=Bruce%20Schneier" alt="Quote"/>
+</p>
+
+---
+
+## 🤝 Connect & Collaborate
+
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/shadownix69/ctf-tools-scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadownix69&repo=ctf-tools-scripts&theme=tokyonight" alt="ctf-tools-scripts"/>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@protonmail.com">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://hackerone.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://bugcrowd.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd"/>
+  </a>
+  <a href="https://discord.gg/YOUR_SERVER">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://t.me/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>
 
 ---
 
-## 📚 How to run my labs (one-command starter)
+## 📊 Profile Stats
 
-```bash
-# clone
-git clone https://github.com/shadownix69/vuln-webframework.git
-cd vuln-webframework
-# build & run (isolated network)
-docker-compose up --build -d
-# open the lab (default: http://localhost:8080)
-```
-
-**Safety**: Run vulnerable labs in an isolated VM or isolated network. Never expose them to the public internet.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Profile Details"/>
+</p>
 
 ---
 
-## 🧩 Contribute / Collaborate
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Keep%20Learning.%20Keep%20Breaking%20(Responsibly)&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=75" alt="Footer"/>
+</p>
 
-I welcome PRs, challenges, and collaboration. Typical contribution types:
+<p align="center">
+  <sub>Made with 💀 by nix-shadow</sub>
+</p>
 
-* `challenge:` — add a new CTF-style challenge
-* `doc:` — improve lab READMEs and walkthroughs
-* `ci:` — add tests or CI templates
-
-Please open issues first for non-trivial additions so we can coordinate.
-
----
-
-## 🛡️ Responsible disclosure
-
-If you find a security issue in any of my projects (or related infrastructure) please:
-
-1. Email: `adanupamadhi@gmail.com` (PGP available on request)
-2. Include: repo, branch/commit, reproduction steps, PoC (if safe)
-3. I will acknowledge within 72 hours and coordinate a fix.
-
----
-
-## 📖 Docs & Writeups
-
-<details>
-<summary>CTF writeups & research notes (click to expand)</summary>
-
-* Writeups live in `docs/writeups/` in each repo.
-* Short example: `vuln-webframework/docs/sql-injection-walkthrough.md`
-
-</details>
-
----
-
-## 📈 Badges & Social
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shadownix69)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:adanupamadhi@gmail.com)
-[![Visitor Count](https://komarev.com/ghpvc/?username=shadownix69\&color=blueviolet)](https://github.com/shadownix69)
-
----
-
-## ✅ Repository hygiene (suggested files)
-
-Add these to each repo to improve professionalism and trust:
-
-* `SECURITY.md` — responsible disclosure process
-* `CONTRIBUTING.md` — contribution rules & labels
-* `CODE_OF_CONDUCT.md` — community expectations
-* `LICENSE` — choose an open-source license
-
----
-
-## 🧾 Quick resume (TL;DR)
-
-* Offensive web researcher focused on exploit development and lab automation.
-* Digital forensics and malware analysis practitioner for triage and research.
-* Active in CTFs, tooling, and open-source vulnerable apps.
-* Email for collabs, talks, or workshops: `adanupamadhi@gmail.com`
-
----
-
-<p align="center">⚡ Keep learning. Keep breaking (responsibly). ⚡</p>
-
-<!-- Footer capsule -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:1e90ff,100:000000\&height=120\&section=footer)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Hit Counter"/>
+</p>
