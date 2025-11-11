@@ -76,7 +76,7 @@ I'm a security researcher focused on **web application security**, **vulnerabili
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nix-shadow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nix-shadow&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
