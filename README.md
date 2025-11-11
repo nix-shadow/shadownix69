@@ -83,24 +83,24 @@ I'm a security researcher focused on **web application security**, **vulnerabili
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nix-shadow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nix-shadow&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nix-shadow&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nix-shadow&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="Trophies"/>
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nix-shadow&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
