@@ -30,13 +30,6 @@ I'm a security researcher focused on **web application security**, **vulnerabili
 - 🤝 **Open Source:** Contributing to security projects
 - 📝 **Knowledge Sharing:** Writing technical documentation
 
-### 🏆 Highlights
-
-- 🐛 **50+** Bugs reported and triaged
-- 🎯 **Top 5%** on bug bounty platforms
-- 🔐 **15+** Security vulnerabilities discovered
-- 📦 **20+** Open-source security tools
-- ⭐ **1000+** Combined community impact
 
 <br clear="right"/>
 
@@ -136,7 +129,6 @@ I'm a security researcher focused on **web application security**, **vulnerabili
 ### ✅ Completed
 - [x] Launch 5+ security automation tools
 - [x] Contribute to 10+ open-source projects
-- [x] Write 25+ technical writeups
 - [x] Earn 3 professional certifications
 - [x] Build vulnerable web app for training
       
@@ -144,9 +136,6 @@ I'm a security researcher focused on **web application security**, **vulnerabili
     <td width="50%" valign="top">
       
 ### 🎯 In Progress
-- [ ] Develop a self-hosted bug bounty platform
-- [ ] Contribute enhancements to OWASP Juice Shop
-- [ ] Publish malware research whitepaper
 - [ ] Create comprehensive CTF challenge repository
 - [ ] Launch security tool with 1K+ GitHub stars
       
@@ -228,18 +217,6 @@ I'm a security researcher focused on **web application security**, **vulnerabili
     </td>
   </tr>
 </table>
-
----
-
-## 📝 Latest Articles & Writeups
-
-<!-- Replace with your actual blog/writeup links -->
-
-- 🔐 **[Advanced XSS Techniques in Modern Web Applications](#)** - Deep dive into bypassing modern XSS filters
-- 🛡️ **[Building a Custom Web Application Firewall](#)** - Step-by-step guide to creating a WAF from scratch
-- 🎯 **[My Journey to OSCP: Tips and Strategies](#)** - Complete guide and preparation roadmap
-- 🔥 **[Exploiting Race Conditions in Payment Systems](#)** - Real-world race condition vulnerabilities
-- 💀 **[Malware Analysis: Dissecting a Banking Trojan](#)** - Reverse engineering modern malware
 
 ---
 
