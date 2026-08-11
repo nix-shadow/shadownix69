@@ -78,13 +78,17 @@ I'm a security researcher focused on **web application security**, **vulnerabili
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=nix-shadow&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
     alt="Top Languages"
+    height="170"
   />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nix-shadow&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=2&column=4" alt="Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nix-shadow&theme=matrix&no-frame=true&margin-w=10&margin-h=10&row=2&column=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ### 📈 Contribution Graph
