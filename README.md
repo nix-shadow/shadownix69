@@ -66,15 +66,19 @@ I'm a security researcher focused on **web application security**, **vulnerabili
 
 ## 📊 GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
 <p align="center">
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nix-shadow&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nix-shadow&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nix-shadow&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nix-shadow&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Top Languages"
+  />
 </p>
 
 ### 🏆 GitHub Trophies
